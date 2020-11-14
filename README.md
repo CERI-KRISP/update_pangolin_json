@@ -1,2 +1,3 @@
-# edit_pangolin_json
-Scripts to update pangolin.json lineage entries
+## Edit Pangolin.json
+
+R and Python scripts to update pangolin.json lineage entries
